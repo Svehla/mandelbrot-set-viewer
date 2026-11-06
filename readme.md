@@ -4,11 +4,11 @@
 
 ## CPU preview
 
-[http://mandelbrot.svehlik.eu/cpu-mandelbrot.html](http://mandelbrot.svehlik.eu/cpu-mandelbrot.html)
+[https://svehla.github.io/mandelbrot-set-viewer/cpu-mandelbrot.html](https://svehla.github.io/mandelbrot-set-viewer/cpu-mandelbrot.html)
 
 ## GPU accelerated preview
 
-[http://mandelbrot.svehlik.eu/gpu-mandelbrot.html](http://mandelbrot.svehlik.eu/gpu-mandelbrot.html)
+[https://svehla.github.io/mandelbrot-set-viewer/gpu-mandelbrot.html](https://svehla.github.io/mandelbrot-set-viewer/gpu-mandelbrot.html)
 
 
 ## screenshots
